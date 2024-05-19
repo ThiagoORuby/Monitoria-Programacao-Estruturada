@@ -13,6 +13,8 @@
     - Determinar em quantos anos uma população irá superar a outra, com base em suas taxas de crescimento
     - Solução [aqui](estruturas_de_repetição/crescimento.py)
 
+FALTAM ALGUMAS QUESTÕES QUE FORAM RESOLVIDAS AQUI
+
 ## NOTEBOOKS DAS MONITORIAS
 
 1. [Sequências, Listas e Manipulação de Strings](./monitoria-27-04-2024.ipynb)
