@@ -16,5 +16,5 @@
 ## NOTEBOOKS DAS MONITORIAS
 
 1. [Sequências, Listas e Manipulação de Strings](./monitoria-27-04-2024.ipynb)
-2. [Pensando em problemas complexos com o básico](./monitoria-11-05-2024.ipynb)
+2. [Pensando em problemas complexos com o básico: Busca Binária](./monitoria-11-05-2024.ipynb)
 3. [Breve introdução à funções e convertendo bases hexadecimais](./Monitoria-18-05-2024.ipynb)
