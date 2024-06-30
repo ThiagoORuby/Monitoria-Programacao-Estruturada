@@ -21,5 +21,6 @@
 4. [Entendendo Recursividade](./monitoria-25-05-2024.ipynb)
 5. [Resolvendo questões do Beecrowd](./monitoria-01-06-2024.ipynb)
 6. [Introdução ao Pandas](./monitoria-15-06-2024.ipynb)
+7. [Visualização de Dados](./monitoria-29-06-2024.ipynb)
 
 ** **Importante**: Baixem os **csv** para resolver os exercícios da monitoria de Introdução ao Pandas
